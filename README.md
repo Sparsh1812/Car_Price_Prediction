@@ -3,16 +3,16 @@
 This project focuses on developing a machine learning model for the early detection of Parkinson's disease. Leveraging biomedical data and machine learning algorithms, the goal is to provide a reliable and accurate tool for proactive healthcare interventions.
 
 ### Table of Contents
-Background
-Features
-Installation
-Usage
-Dataset
-Model Development
-Results
-Contributing
-License
-Background
+Background | 
+Features |
+Installation |
+Usage |
+Dataset |
+Model Development |
+Results |
+Contributing |
+License |
+Background |
 
 Parkinson's disease is a neurodegenerative disorder that affects millions worldwide. Early detection is crucial for effective management and treatment. This project aims to contribute to early diagnosis through the application of machine learning techniques on relevant patient data.
 
