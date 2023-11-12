@@ -33,7 +33,7 @@ Explore the csv file name 'audi' for the dataset used.
 ### Dataset:
 The dataset used in this project is the 'audi' is provided by Acmegrade Pvt Ltd. containing information on car specifications, prices, and historical sales data, which plays a crucial role in achieving the goals of this project.
 - **Source:** Acmegrade Pvt Ltd.
-- **Features:** The dataset 'audi' consists of 10668 rows and 10 columns that were instrumental in training the machine learning model.
+- **Features:** The dataset 'audi' consists of 10668 rows and 9 columns that were instrumental in training the machine learning model.
 - **Format:** The data is available in CSV format.
 
 ### Model Development:
@@ -47,5 +47,5 @@ Model training and evaluation details can be found in the notebook 'Car Price Pr
 4. Decision Tree Regressor achieved 93.4% of accuracy.
 5. Naive Bayes Regressor achieved 67% of accuracy.
 6. Support Vector Regressor achieved 91.2% of accuracy.
-7.K-Neighbors Regressor achieved 94% of accuracy.
+7. K-Neighbors Regressor achieved 94% of accuracy.
 
