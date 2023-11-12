@@ -2,8 +2,7 @@
 ### Overview
 This project focuses on developing a machine learning model for the early detection of Parkinson's disease. Leveraging biomedical data and machine learning algorithms, the goal is to provide a reliable and accurate tool for proactive healthcare interventions.
 
-### Table of Contents
-Background | 
+### Table of Contents 
 Features |
 Installation |
 Usage |
@@ -21,8 +20,9 @@ Parkinson's disease is a neurodegenerative disorder that affects millions worldw
 trees, random forest, naïve bayes and k-neighbors for predictive modeling.
 
 **Feature Selection:** Implemented feature selection techniques to identify key factors contributing to Parkinson's disease.
+
 **Model Interpretability:** Emphasized interpretability for clear insights into the factors influencing disease detection.
-Installation
+### Installation:
 To run the project locally, follow these steps:
 Clone the repository: git clone [repository link]
 Install dependencies: pip install -r requirements.txt
@@ -31,15 +31,14 @@ Run the application: python app.py
 ### Usage:
 Open the Jupyter notebook 'Detection of Parkinsons Disease.ipynb' for a detailed walkthrough of the project.
 Explore the csv file name 'parkinsons' for the dataset used.
-Access the models folder for the trained machine learning model.
 
-**Dataset**
+### Dataset:
 The dataset used in this project is the 'parkinsons' contains 194 rows and 24 columns
 
-Model Development
+### Model Development:
 Developed using Python and Jupyter Notebooks.
 Model training and evaluation details can be found in the notebook Parkinsons_Disease_Detection.ipynb.
-Results
+### Results:
 Achieved [mention key metrics or results] in disease detection.
 Visualizations and insights can be found in the results folder.
 Contributing
