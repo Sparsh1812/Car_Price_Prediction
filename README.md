@@ -5,7 +5,6 @@ The Car Price Prediction project is focused on developing accurate machine learn
 ### Table of Contents 
 Background |
 Features |
-Installation |
 Usage |
 Dataset |
 Model Development |
@@ -19,12 +18,6 @@ The automotive industry faces challenges in determining optimal pricing strategi
 trees, decision tree and naïve bayes regressor for predictive modeling.
 
 **Feature Selection:** Implemented feature selection techniques to identify key factors contributing to car price prediction.
-
-### Installation:
-To run the project locally, follow these steps:
-Clone the repository: git clone [repository link]
-Install dependencies: pip install -r requirements.txt
-Run the application: python app.py
 
 ### Usage:
 Open the file 'Car Price Prediction.ipynb' for a detailed walkthrough of the project.
